@@ -12,13 +12,13 @@
 - APIs, GitHub
 
 - ### 📌 Featured Projects
-- 🕌 Sam3li Ayah – Quran Web App
-- 🚀 Nasa web – Website
-- 🧑‍⚕️ Tabybk-Elfawry-Web – Website
-- 🎓 EDU-Tech – Website
+- 🕌 <a href="https://shrief333.github.io/sam3li-ayah/">Sam3li Ayah – Quran Web App</a>
+- 🚀 <a href="https://shrief333.github.io/Nasa/">Nasa web – Website</a>
+- 🧑‍⚕️ <a href="https://shrief333.github.io/Tabybk-Elfawry-Web/">Tabybk-Elfawry-Web – Website</a>
+- 🎓 <a href="https://shrief333.github.io/EDU-Tech/">EDU-Tech – Website</a>
 
-- 📫 How to reach me **shreefahmed462@gmail.com**
 - Facebook : <a href="https://www.facebook.com/share/1AXoPRyBy9/">Shrief ahmed abdelwahed</a>
+- 📫 How to reach me **shreefahmed462@gmail.com**
 
 <p align="left">
 </p>
