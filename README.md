@@ -1,13 +1,25 @@
 <h1 align="center">Hi 👋, I'm Shrief Ahmed Abdelwahed Khalaf</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">👨‍💻 Front-End Developer</h3>
 
 - 🔭 I’m currently working on [sam3li-ayah](https://shrief333.github.io/sam3li-ayah/)
 
+- 💻 Building Islamic & educational web apps
+
 - 💬 Ask me about **HTML, CSS, javascript, python**
 
-- 📫 How to reach me **shreefahmed462@gmail.com**
+- ### 🛠 Tech Stack
+- HTML, CSS, JavaScript, Python, C++
+- APIs, GitHub
 
-<h3 align="left">Connect with me:</h3>
+- ### 📌 Featured Projects
+- 🕌 Sam3li Ayah – Quran Web App
+- 🚀 Nasa web – Website
+- 🧑‍⚕️ Tabybk-Elfawry-Web – Website
+- 🎓 EDU-Tech – Website
+
+- 📫 How to reach me **shreefahmed462@gmail.com**
+- Facebook : <a href="https://www.facebook.com/share/1AXoPRyBy9/">Shrief ahmed abdelwahed</a>
+
 <p align="left">
 </p>
 
