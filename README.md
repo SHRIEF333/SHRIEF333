@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shrief Ahmed Abdelwahed Khalaf</h1>
+<h1 align="center">Hello 👋, I'm Shrief Ahmed Abdelwahed Khalaf</h1>
 <h3 align="center">👨‍💻 Front-End Developer</h3>
 
 - 🔭 I’m currently working on [sam3li-ayah](https://shrief333.github.io/sam3li-ayah/)
