@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Shrief Ahmed Abdelwahed Khalaf</h1>
+<h1 align="center">Hello 👋, I'm Shrief Ahmed Abdelwahed</h1>
 <h3 align="center">👨‍💻 Front-End Developer</h3>
 
 - 🔭 I’m currently working on [sam3li-ayah](https://shrief333.github.io/sam3li-ayah/) project
@@ -18,7 +18,7 @@
 - 🎓 <a href="https://shrief333.github.io/EDU-Tech/">EDU-Tech – Website</a>
 
 - Facebook : <a href="https://www.facebook.com/share/1AXoPRyBy9/">Shrief ahmed abdelwahed</a>
-- 📫 How to reach me **shreefahmed462@gmail.com**
+- 📫 How to reach me: **shreefahmed462@gmail.com**
 
 <p align="left">
 </p>
